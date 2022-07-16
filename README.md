@@ -1,4 +1,6 @@
-Hello, I’m Sai Sandeep Nangineni. A final semester student at California State University East Bay.
+Hello, I’m Sai Sandeep Nangineni. A final graduate semester student in Computer Science at California State University East Bay, USA.
+
+Completed my undergrad at Gokaraju Rangaraju Institute of Engineering and Technology in Computer Science, India.
 
 Am interested in problem solving and learning new stuff.
 
