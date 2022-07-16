@@ -2,7 +2,7 @@ Hello, I’m Sai Sandeep Nangineni. A final graduate semester student in Compute
 
 Completed my undergrad at Gokaraju Rangaraju Institute of Engineering and Technology in Computer Science, India.
 
-Am interested in problem solving and learning new stuff.
+Interested in problem solving and learning new stuff.
 
 You can reach me through linkedin: https://www.linkedin.com/in/nsaisandeep/
 
