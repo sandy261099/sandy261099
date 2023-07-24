@@ -4,5 +4,5 @@ Completed my undergrad at Gokaraju Rangaraju Institute of Engineering and Techno
 
 Interested in problem solving and learning new stuff.
 
-You can reach me through linkedin: https://www.linkedin.com/in/nsaisandeep/
+
 
